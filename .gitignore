@@ -1,0 +1,37 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python cache/test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated teaching-package attachments and temporary outputs
+teaching_package.md
+teaching_package.Rmd
+teaching_package.pdf
+generated/
+outputs/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Generated PDFs and local attachment exports
+*.generated.pdf
+*_attachment.pdf
+*_attachment.md
+*_attachment.Rmd
