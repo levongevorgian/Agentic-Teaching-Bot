@@ -1,6 +1,6 @@
 # Agentic Telegram Teaching Assistant
 
-Telegram bot for the AUA NLP homework. It accepts lecture slides, extracts slide/page evidence, researches supporting resources, generates a teaching package with a local LLM, previews the email, and sends only after approval.
+Telegram bot for the Natural Language Processing (NLP) homework assignment. It accepts lecture slides, extracts slide- or page-level evidence, researches supporting resources, generates a teaching package with a local LLM, previews the email, and sends it only after approval.
 
 ## Features
 
